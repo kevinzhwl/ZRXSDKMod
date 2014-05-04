@@ -1,0 +1,1 @@
+If execute the zrxcheck with command line, each parameter must be use double quotes.

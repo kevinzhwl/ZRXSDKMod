@@ -1,0 +1,17 @@
+
+Root.cpp
+
+ProjectDef.def
+
+StdAfx.cpp
+StdAfx.h
+
+targetver.h
+
+resource.h
+
+SampleDlg.h
+
+SampleDlg.cpp
+
+DlgSample.rc
